@@ -1,3 +1,2 @@
 # Beyond UI
-
-## A React UI Component Library
+### A React UI Component Library
